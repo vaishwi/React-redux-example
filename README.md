@@ -1,1 +1,1 @@
-# React redux example
+# React redux for beginner

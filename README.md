@@ -1,6 +1,6 @@
 # React redux for beginner
 For communicate between component of the project
-# Components of Redux:
+## Components of Redux:
 - Global store : Accessible by every component of project
 - Producer : Fetch the data from store
 - Reducer : Update the store based on various action
